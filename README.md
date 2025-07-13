@@ -22,19 +22,19 @@ The AI uses a basic heuristic strategy to choose optimal moves based on board st
 
 ## 📸 Sample Gameplay
 
+```
    1 2 3 4 5 6 7 8
-1  . . . . . . . .
-2  . . . . . . . .
-3  . . . O X . . .
-4  . . . X O . . .
-5  . . . . . . . .
-6  . . . . . . . .
-7  . . . . . . . .
-8  . . . . . . . .
+1  U U U U U U U U
+2  U U U U U U U U
+3  U U U W B U U U
+4  U U U B W U U U
+5  U U U U U U U U
+6  U U U U U U U U
+7  U U U U U U U U
+8  U U U U U U U U
 
 Your move (row col):
-
----
+```
 
 ## 📚 Concepts Applied
 
@@ -43,7 +43,7 @@ Your move (row col):
 - Memory management in C
 - Modular design for scalability
 
--- 
+--- 
 
 ## 🚀 Future Improvements
 
@@ -52,7 +52,7 @@ Your move (row col):
 - Smarter AI using Minimax or Alpha-Beta pruning
 - Save/load game feature
 
--- 
+---
 
 ## 🙌 Acknowledgements
 
